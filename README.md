@@ -3,7 +3,7 @@ Tired of manually setting up launch actions for your games? Meet LaunchMate—th
 
 With LaunchMate, you can effortlessly manage your gaming environment. Whether it's launching applications, opening web pages, running scripts, starting or stopping Windows services, or even stopping processes—LaunchMate handles it all! Set precise conditions for when these actions should occur, based on various aspects of your game metadata, and let LaunchMate do the heavy lifting.
 
-## Key Features:
+### Key Features:
 
 **Automated Game Environment Management**: Seamlessly manage secondary actions like launching apps, running scripts, and more, triggered by your game launches.
 
@@ -25,4 +25,14 @@ With LaunchMate, you can effortlessly manage your gaming environment. Whether it
 
 Transform your gaming experience with LaunchMate, and focus on what matters most—enjoying your games. 🚀
 
+
 # Riot Games Library
+Allows Playnite to manage install, uninstall, and launching of games by Riot Games
+
+Can attach companion applications to League of Legends and Valorant (e.g. U.GG, Porofesser, blitz.gg) that launch and close with the games
+
+Enables Riot Client to be force closed when a game is closed so it isn't always running in the background
+
+
+# ATLauncher  Library
+Enables Playnite to import and launch Minecraft instances made using ATLauncher as if they were individual games.
