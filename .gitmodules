@@ -1,0 +1,9 @@
+[submodule "ATLauncher-Integration"]
+	path = ATLauncher-Integration
+	url = https://github.com/ASchoe311/ATLauncher-Integration.git
+[submodule "RiotGamesLibrary"]
+	path = RiotGamesLibrary
+	url = https://github.com/ASchoe311/RiotGamesLibrary.git
+[submodule "LaunchMate"]
+	path = LaunchMate
+	url = https://github.com/ASchoe311/LaunchMate.git
