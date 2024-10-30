@@ -36,3 +36,7 @@ Enables Riot Client to be force closed when a game is closed so it isn't always 
 
 # ATLauncher  Library
 Enables Playnite to import and launch Minecraft instances made using ATLauncher as if they were individual games.
+
+Automatically scans discovered instance.json files to acquire instance information and utilized web scraping to add additional data such as pack images and pack and mod authors.
+
+Allows users to automatically reshape instance cover art to a portrait aspect ratio for better appearances when using fullscreen themes.
