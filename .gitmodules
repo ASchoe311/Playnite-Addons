@@ -7,3 +7,4 @@
 [submodule "LaunchMate"]
 	path = LaunchMate
 	url = https://github.com/ASchoe311/LaunchMate.git
+	branch = Working
